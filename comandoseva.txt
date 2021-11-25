@@ -1,0 +1,17 @@
+1. mkdir EV1_GIT_Javier_Sanchez
+2. git config --global user.name
+3. git config --global user.email
+4. git clone  linkrepositorioremoto
+5. git init Taller_1006790977
+6. git add Teoria.txt
+7. git commit -m ' Teoria de Git'
+8. code Teoria.txt, git add *txt
+9. rm -rf TeoriaCopia.txt
+10. mv Teoria.txt TeoriaGit.txt
+11. git status 
+12. code TeoriaGit.txt 
+13. git add TeoriaGit.txt , git commit TeoriaGit.txt -m 'Teoria con descripcion'
+14. code TeoriaGit.txt, git diff sha1Teoriacondescripcion sha1TeoriadeGit
+15. git log , git log --oneline
+16. code TeoriaGit.txt, git add .
+17. 
