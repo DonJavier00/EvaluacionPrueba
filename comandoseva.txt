@@ -14,4 +14,9 @@
 14. code TeoriaGit.txt, git diff sha1Teoriacondescripcion sha1TeoriadeGit
 15. git log , git log --oneline
 16. code TeoriaGit.txt, git add .
-17. 
+17. git commit TeoriaGit.txt -m 'Teoria con GitHub'
+18. git show TeoriaGit.txt,  git code TeoriaGit.txt
+19. git commit -m 'Version 1.0'
+20. git tag -a v1.0 , git tag -l 
+21. git add . , git rm --cached Git_GitHub.jpg
+22. 
