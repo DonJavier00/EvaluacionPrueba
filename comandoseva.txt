@@ -19,4 +19,6 @@
 19. git commit -m 'Version 1.0'
 20. git tag -a v1.0 , git tag -l 
 21. git add . , git rm --cached Git_GitHub.jpg
-22. 
+22. git commit -m 'Imagenes y Teoria', 
+23.
+24. 
